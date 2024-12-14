@@ -1,0 +1,13 @@
+Admin: username: "admin", password: "password"
+
+Instructor: username: "instructor1", password: "password"
+
+Student: username: "student1", password: "password"
+
+For the second SQL:
+
+Admin: username: "admin2", password: "password"
+
+Instructor: username: "instructor2", password: "password"
+
+Student: username: "student2", password: "password"
